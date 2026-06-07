@@ -1,0 +1,9 @@
+[package]
+name = "coral-reef"
+version = "0.1.0"
+edition = "2021"
+description = "Ecosystem simulation for diverse agent populations with colonies, symbiosis, and stress response"
+repository = "https://github.com/SuperInstance/coral-reef"
+license = "MIT"
+
+[dev-dependencies]
